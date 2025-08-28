@@ -1,0 +1,9 @@
+echo "# Acessibilidade-Digital-para-Idosos" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/acjacyntho/Acessibilidade-Digital-para-Idosos.git
+git push -u origin main
+git folder# git add.
+gil forder# git commit -s -m "Commit Inicial 
